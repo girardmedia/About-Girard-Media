@@ -1,7 +1,7 @@
 <h1>About Girard Media</h1>
 <h2><a href="tel:+18886463523">888-646-3523</a></h2>
 <p>Welcome to Girard Media, where dreams turn into digital realities. As a premier web development company, we don't just code websites, but engineer success stories. Our proven expertise ensures that your next idea not only takes off but scales to new heights.</p>
-        <a href="https://girardmedia.com" target="_blank">Discover Our Portfolio</a>
+        <a href="https://www.girardmedia.com" target="_blank">Discover Girard Media</a>
 
 <h2>📞 Let's Collaborate</h2>
         <p>Whether you're a startup in need of a digital platform or an established company wanting to innovate, Girard Media is your go-to partner. Get in touch and let's co-create greatness!</p>
